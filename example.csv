@@ -1,0 +1,39 @@
+1 Payload
+Destination,Fuel to orbit at 3 tank per stage (number of tanks),Turns to complete,Fuel to land at 3 tank per stage (number of tanks),Turns to complete,Fuel to land and return at 3 tank per stage (number of tanks),Turns to complete
+Kerbol,5 (4),3,Impossible,Impossible,Impossible,Impossible
+Moho,3 (3),3,5 (4),3,9 (6),6
+Eve,2 (2),3,2 (2),3,7 (5),6
+Kerbin,1 (1),1,1 (1),1,2 (2),2
+Duna,2 (2),3,2 (2),3,5 (4),6
+Dres,3 (3),3,5 (4),3,9 (6),6
+Jool,5 (4),6,Impossible,Impossible,Impossible,Impossible
+Eeloo,7 (5),4,9 (6),4,Requires refuel,variable
+Gilly,2 (2),2,3 (3),3,5 (4),5
+Mun,1 (1),1,2 (2),2,2 (2),3
+Minmus,1 (1),2,2 (2),2,2 (2),4
+Ike,2 (2),2,3 (3),3,5 (4),5
+Laythe,5 (4),5,5 (4),6,15 (8),11
+Vall,5 (4),5,7 (5),5,15 (8),10
+Tylo,5 (4),4,7 (5),5,15 (8),9
+Bop,5 (4),4,7 (5),4,15 (8),8
+Pol,5 (4),3,7 (5),4,15 (8),7
+
+2 Payload
+Destination,Fuel to orbit at 3 tank per stage (number of tanks),Turns to complete,Fuel to land at 3 tank per stage (number of tanks),Turns to complete,Fuel to land and return at 3 tank per stage (number of tanks),Turns to complete
+Kerbol,15 (8),3,Impossible,Impossible,Impossible,Impossible
+Moho,9 (6),3,15 (8),3,Requires refuel,variable
+Eve,5 (4),3,5 (4),3,Requires refuel,variable
+Kerbin,2 (2),1,2 (2),1,5 (4),2
+Duna,5 (4),3,5 (4),3,15 (8),6
+Dres,9 (6),3,15 (8),3,Requires refuel,variable
+Jool,15 (8),6,Impossible,Impossible,Impossible,Impossible
+Eeloo,Requires refuel,variable,Requires refuel,variable,Requires refuel,variable
+Gilly,5 (4),2,9 (6),3,15 (8),5
+Mun,2 (2),1,5 (4),2,5 (4),3
+Minmus,2 (2),2,5 (4),2,5 (4),4
+Ike,5 (4),2,9 (6),3,15 (8),5
+Laythe,15 (8),5,15 (8),6,Requires refuel,variable
+Vall,15 (8),5,Requires refuel,variable,Requires refuel,variable
+Tylo,15 (8),4,Requires refuel,variable,Requires refuel,variable
+Bop,15 (8),4,Requires refuel,variable,Requires refuel,variable
+Pol,15 (8),3,Requires refuel,variable,Requires refuel,variable
